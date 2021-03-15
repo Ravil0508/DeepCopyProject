@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_271" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <string>GGG</string>
+  </void>
+  <void method="add">
+   <string>HHH</string>
+  </void>
+ </object>
+</java>
